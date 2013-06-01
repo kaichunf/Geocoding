@@ -6,4 +6,6 @@ The input of the raw city data's name should be: "RawCities.txt".(the city data 
 The fuction of the CityFinal() is to do geocoding, namely to get the geo-coordinates given the city's and the state's name.
 The input file's name of the function is: "Output.txt"(the same file as the output file from the CityInput() function), the format of which was discussed in previous. The output file of the function is: "FinalOutput.txt". The format of the function is: [CountryName]|[City Parent Division]|[CityName]|[Variant Names]|[Coordinate]
 
-The most inportant input is the "RawCities.txt" file with the right format. 
+The most inportant input is the "RawCities.txt" file with the right format.
+
+This is the Kaiqun Latest revising version, please take a look at it Thanks!
